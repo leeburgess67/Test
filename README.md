@@ -1,2 +1,4 @@
 # Test
-Test E22
+Test for learning Github.
+
+Lee Cohort E22
